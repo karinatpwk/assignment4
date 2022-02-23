@@ -1,0 +1,60 @@
+body{
+  background-color:#FFF8F3;
+  margin: 0 auto;
+  }
+h1{
+  font-family: 'Outfit';
+  color: #32356c;
+  margin-top: 30px;
+}
+h2{
+  font-family: 'Montserrat';
+  font-size: 24px;
+  margin-top: 30px;
+}
+h3{
+  font-family: 'Montserrat';
+  font-size: 40px;
+  font-weight: bold;
+}
+p{
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+#teenagers {
+      position: relative;
+      cursor: pointer;
+      height: 500px;
+      max-width: 70%;
+      margin-bottom: 40px;
+    }
+
+
+/* Navbar */
+.navbar-brand{
+  font-family: 'Montserrat';
+  font-weight: bold;
+  font-size: 2rem;
+}
+.nav-item{
+  padding: 0 20px;
+}
+
+#news{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #333856;
+  color:#FFF8F3;
+}
+/* Features */
+#Features{
+  padding: 7% 15%;
+  text-align: center;
+}
+.feature-box{
+  padding: 1%;
+}
+.icon{
+  color: #f38d29;
+}

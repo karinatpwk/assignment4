@@ -1,0 +1,20 @@
+body{
+  background-color:#FFF8F3;
+  }
+  h1{
+    font-family: 'Outfit';
+    color: #32356c;
+  }
+  /* Navbar */
+  .navbar-brand{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 2rem;
+  }
+  .nav-item{
+    padding: 0 20px;
+  }
+  p{
+    font-family: 'Montserrat';
+    font-size: 20px;
+  }

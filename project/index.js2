@@ -1,0 +1,14 @@
+//Keydown
+$(document).ready(function(){
+  $("input").keydown(function(){
+    $("input").css("background-color", "#e1edfb");
+  });
+  $("input").keyup(function(){
+    $("input").css("background-color", "#faddbf");
+  });
+});
+//Sound
+function play(){
+  var audio = new Audio('sounds/1576172908_harry_styles_-_sunflower_vol__6_.mp3');
+  audio.play();
+};
